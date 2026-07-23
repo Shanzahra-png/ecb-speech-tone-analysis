@@ -1,6 +1,6 @@
 ## Model Architecture
 
-![FinBERTGate Fusion Architecture](figures/finbert_gate_fusion_architecture.png)
+![FinBERTGate Fusion Architecture](figures/finbert_gate_fusion_architecture.jpeg)
 # ECB Speech Tone Analysis using FinBERT
 
 ## Quantifying ECB Speech Tone and Its Influence on the European Bond Market Through Financial Signal Extraction
